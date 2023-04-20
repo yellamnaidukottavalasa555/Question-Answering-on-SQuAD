@@ -1,7 +1,7 @@
 # Question-Answering-on-SQuAD-Dataset
 This project aimed to explore the effectiveness of using the DistilBERT-base-uncased-distilled-squad, ALBERT-base-v2, Google/ELECTRA-base-generator models on the Stanford SQUAD dataset for question answering tasks. The objective was to achieve a high F1 score to demonstrate the potential impact of these models in natural language processing. The results of the DistilBERT-base-uncased-distilled-squad model showed a significant improvement in F1 score, with a final score of 84.19. These findings indicate that this model is highly effective for question answering tasks and have the potential to improve the accuracy of natural language processing systems.
 
-## Dataset
+# Dataset
 The Stanford Question Answering Dataset (SQuAD) is a popular benchmark dataset for evaluating the performance of question answering systems. The dataset consists of more than 100,000 question-answer pairs, covering a diverse range of topics such as science, history, and literature. Each question-answer pair is associated with a corresponding passage of text that provides the necessary context for answering the question.
 
 # Models
